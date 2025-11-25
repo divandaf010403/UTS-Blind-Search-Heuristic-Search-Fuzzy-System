@@ -198,7 +198,3 @@ Semua implementasi telah berhasil dibuat sesuai dengan persyaratan tugas:
 4. ✅ **Fuzzy Logic System** - Sistem lengkap untuk perhitungan tip restoran
 
 Sistem fuzzy logic berhasil menghitung tip sebesar **4.13%** untuk input Food Quality = 7 dan Service Quality = 3 sesuai dengan test case yang diberikan.
-
----
-
-**Catatan:** Ganti `[Your Name]` dan `[Your NIM]` dengan identitas Anda yang sebenarnya.
